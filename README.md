@@ -1,5 +1,5 @@
   ## ***Hi, I'm Sebastian ✒***
-I'm Sebastian Jimenez and I'm currently a student and I'm learning programming through small projects✨. 
+I'm Sebastian Jimenez and I'm currently a student and I'm learning programming through personal projects✨. 
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
  
