@@ -1,15 +1,12 @@
-## Hi, I'm Sebastian <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-
-I'm Sebastian Jimenez and I'm currently a student and I'm learning programming through small projects✨ .
-
-## programming language I use: 
-
-
-
-
+  ## ***Hi, I'm Sebastian ✒***
+I'm Sebastian Jimenez and I'm currently a student and I'm learning programming through small projects✨. 
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ 
+<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif">
+
+
+
 
 
 <!--
