@@ -1,20 +1,20 @@
 # Hi there, I'm Sebastián Jiménez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Vue.js+%2B+Modern+JavaScript;Process+Automation+%26+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+Angular+%26+Vue.js;AI+Integration+%26+Process+Automation" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Software Development Student based in Colombia 🇨🇴 | Focused on building scalable web apps, robust backend APIs, and process automation solutions.
+  Software Engineering Student based in Colombia 🇨🇴 | Focused on building scalable web apps, robust backend APIs, and process automation solutions.
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sebastian-jimenez-51053b37a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastian-jimenez-51053b37a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sebastianjimenezjjb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-
+  </a>
 </p>
 
 ---
@@ -22,11 +22,12 @@
 ### 🚀 About Me
 
 - 💻 Passionate **Full Stack Developer** crafting modern web experiences and backend architectures.
-- ⚙️ Specializing in **Java (Spring Boot)** for secure, structured APIs and **Vue.js / JavaScript** for reactive user interfaces.
+- ⚙️ **Backend:** Enterprise REST APIs with **Java (Spring Boot)**, **Node.js**, and **Python**.
+- 🎨 **Frontend:** Responsive, component-driven interfaces using **React**, **Angular**, and **Vue.js 3**.
 - 🤖 Automating workflows and integrating **AI APIs / LLMs** with Python to eliminate repetitive manual tasks.
-- 🎓 Software Engineering / Systems student at UNICOLOMBO.
+- 🎓 Systems Engineering student at UNICOLOMBO.
 - 🌐 Professional English proficiency (**B1 Level** - technical documentation & collaboration).
-- 💬 Ask me about: **Spring Boot, REST APIs, Vue 3, Clean Code & Automation**.
+- 💬 Ask me about: **Spring Boot, React, Angular, Vue 3, Clean Code & Automation**.
 
 ---
 
@@ -44,8 +45,11 @@
 
   <!-- Frontend -->
   <h4>Frontend & UI</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -61,6 +65,7 @@
 
 </div>
 
+---
 
 <p align="center">
   <i>💡 "Always learning, building real-world software, and exploring the frontiers of AI & automation."</i>
