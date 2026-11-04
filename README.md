@@ -9,15 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sebastian-jimenez-51053b37a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:sebastianjimenezjjb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tu-sitio-web.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+
 </p>
 
 ---
