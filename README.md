@@ -64,16 +64,6 @@
 
 </div>
 
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianJimenez2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sebastian's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJimenez2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</div>
-
----
 
 <p align="center">
   <i>💡 "Always learning, building real-world software, and exploring the frontiers of AI & automation."</i>
